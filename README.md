@@ -40,7 +40,7 @@
   - <b>3.8 GPA</b>
 
 
-<h2> Contact me:</h2>
+<h2> Contact me</h2>
 
 - <b>Email : VictorAA1116@gmail.com</b>
 - <b>Phone # : 786-728-1506</b>

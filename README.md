@@ -6,7 +6,7 @@
  - [Gameplay Video]()
 
 <b>Starlight Mercenaries (School Group Project)</b>
- - [Gameplay Video]()
+ - [Itch.io Page](https://aknez615.itch.io/starlight-mercenaries)
 
 <h2>3D Modeling </h2>
 

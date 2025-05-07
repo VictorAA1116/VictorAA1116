@@ -3,7 +3,7 @@
 <h2> Game Projects:</h2>
 
 <b>Blackened Dawn (School Group Project)</b>
- - [Gameplay Video]()
+ - [Gameplay Video](https://youtu.be/YT36Uhtw-zY)
 
 <b>Starlight Mercenaries (School Group Project)</b>
  - [Itch.io Page](https://aknez615.itch.io/starlight-mercenaries)

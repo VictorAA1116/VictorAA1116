@@ -3,15 +3,17 @@
 <h2> Game Projects:</h2>
 
 <b>Blackened Dawn (School Group Project)</b>
- - [Gameplay Video](https://youtu.be/YT36Uhtw-zY)
+ - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/single-project)
 
 <b>Starlight Mercenaries (School Group Project)</b>
- - [Itch.io Page](https://aknez615.itch.io/starlight-mercenaries)
+ - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/copy-of-blackened-dawn)
 
 <h2>3D Modeling </h2>
 
-<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
- - [Blackened Dawn]()
+ - [Hammer / Mace]()
+ - [Frying Pan]()
+ - [Robot Dragon Kitbash]()
+ - [Table]()
 
 <h2>Skills</h2>
 
@@ -22,12 +24,10 @@
 - <b>Maya</b>
 - <b>Zbrush</b>
 - <b>Substance Painter</b>
-- <b>Procreate</b>
-- <b>Premiere Pro</b>
-- <b>Photoshop</b>
 
 <b>Coding Languages</b>
 - <b>C#</b>
+- <b>C</b>
 - <b>UE5 Blueprints</b>
 - <b>Python</b>
 
@@ -44,30 +44,5 @@
 
 - <b>Email : VictorAA1116@gmail.com</b>
 - <b>Phone # : 786-728-1506</b>
-- <b>Website:</b>
+- <b>Portfolio Website: https://victoraa1116.wixsite.com/portfolio</b>
 
-<!--
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
--->
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

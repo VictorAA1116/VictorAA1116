@@ -4,9 +4,16 @@
 
 <b>Blackened Dawn (School Group Project)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/single-project)
+ - [Github Repository](https://github.com/VictorAA1116/BlackenedDawn.git)
 
 <b>Starlight Mercenaries (School Group Project)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/copy-of-blackened-dawn)
+ - [Github Repository](https://github.com/InfiniumKnight/MajorProjectTry3.git)
+
+<b>Untitled Minecraft Mod 1.21.7 (Solo Personal Project)</b>
+ - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/copy-of-blackened-dawn-2)
+ - [Github Repository](https://github.com/VictorAA1116/FirstMinecraftMod-1.21.6.git)
+
 
 <h2> Art Assets: </h2>
 
@@ -14,6 +21,8 @@
  - [Frying Pan]()
  - [Robot Dragon Kitbash]()
  - [Table]()
+ - [Minecraft Mod Capybara]()
+ - [Minecraft Mod Blocks & Items]()
 
 <h2>Skills</h2>
 
@@ -24,17 +33,20 @@
 - <b>Maya</b>
 - <b>Zbrush</b>
 - <b>Substance Painter</b>
+- <b>Procreate</b>
 
 <b>Coding Languages</b>
-- <b>C#</b>
-- <b>C</b>
 - <b>UE5 Blueprints</b>
+- <b>C</b>
+- <b>C#</b>
+- <b>C++</b>
+- <b>Java</b>
 - <b>Python</b>
 
 <h2>Education</h2>
 
 <b>University of Central Florida</b>
- - <b>B.A. Digital Media : Game Design </b>
+ - <b>Digital Media Game Design B.A.</b>
  - <b>CODE Minor</b>
  - <b>Grad. Spring  2026</b>
   - <b>3.8 GPA</b>

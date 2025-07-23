@@ -1,6 +1,6 @@
 <h1>Hi, I'm Victor! <br/><a href=>Game Programmer</a> <a>/</a> <a href=>Designer</a></h1>
 
-<h2> Game Projects:</h2>
+<h2> Game Projects: </h2>
 
 <b>Blackened Dawn (School Group Project)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/single-project)
@@ -8,7 +8,7 @@
 <b>Starlight Mercenaries (School Group Project)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/copy-of-blackened-dawn)
 
-<h2>3D Modeling </h2>
+<h2> Art Assets: </h2>
 
  - [Hammer / Mace]()
  - [Frying Pan]()

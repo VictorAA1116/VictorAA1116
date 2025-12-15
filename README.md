@@ -22,15 +22,6 @@
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/starlight-mercenaries)
  - [Github Repository](https://github.com/InfiniumKnight/MajorProjectTry3.git)
 
-
-<h2> Art Assets: </h2>
-
- - [Hammer / Mace]()
- - [Robot Dragon Kitbash]()
- - [Table]()
- - [Minecraft Mod Capybara]()
- - [Minecraft Mod Blocks & Items]()
-
 <h2>Skills</h2>
 
 <b>Software</b>

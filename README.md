@@ -11,15 +11,15 @@
  - [Github Repository](https://github.com/AshkanKian-dev/Zombie-Slayer-Idle.git)
 
 <b>Untitled Minecraft Mod 1.21.6-11 (Solo Personal Project)</b>
- - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/copy-of-blackened-dawn-2)
+ - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/untitled-minecraft-mod)
  - [Github Repository](https://github.com/VictorAA1116/FirstMinecraftMod-1.21.6.git)
 
 <b>Blackened Dawn (School Group Project)</b>
- - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/single-project)
+ - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/blackened-dawn)
  - [Github Repository](https://github.com/VictorAA1116/BlackenedDawn.git)
 
 <b>Starlight Mercenaries (School Group Project)</b>
- - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/copy-of-blackened-dawn)
+ - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/starlight-mercenaries)
  - [Github Repository](https://github.com/InfiniumKnight/MajorProjectTry3.git)
 
 

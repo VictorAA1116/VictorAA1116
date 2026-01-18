@@ -10,6 +10,9 @@
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/zombie-slayer-idle)
  - [Github Repository](https://github.com/AshkanKian-dev/Zombie-Slayer-Idle.git)
 
+<b>Procedural Voxel World UE5 (Solo Personal Project)</b>
+ - [Github Repository](https://github.com/VictorAA1116/Procedural_Survival_UE5.7)
+
 <b>Untitled Minecraft Mod 1.21.6-11 (Solo Personal Project)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/untitled-minecraft-mod)
  - [Github Repository](https://github.com/VictorAA1116/FirstMinecraftMod-1.21.6.git)

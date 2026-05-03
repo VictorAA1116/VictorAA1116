@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victor! <br/><a href=>Game Programmer</a> <a>/</a> <a href=>Designer</a></h1>
+<h1>Hi, I'm Victor! <br/><a>Game Programmer</a></h1>
 
 <h2> Game Projects: </h2>
 

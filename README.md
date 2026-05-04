@@ -7,24 +7,21 @@
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/without-regret)
  - [Github Repository](https://github.com/MaksimGareev/Without-Regret.git)
 
-<b>Zombie Slayer Idle</b>
- - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/zombie-slayer-idle)
- - [Github Repository](https://github.com/AshkanKian-dev/Zombie-Slayer-Idle.git)
-
-<b>Procedural Voxel World UE5 (Solo Personal Project)</b>
- - [Github Repository](https://github.com/VictorAA1116/Procedural_Survival_UE5.7)
-
 <b>Untitled Minecraft Mod 1.21.6-11 (Solo Personal Project)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/untitled-minecraft-mod)
  - [Github Repository](https://github.com/VictorAA1116/FirstMinecraftMod-1.21.6.git)
 
+<b>Procedural Voxel World UE5 (Solo Personal Project)</b>
+ - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/proceduralsurvivalue5)
+ - [Github Repository](https://github.com/VictorAA1116/Procedural_Survival_UE5.7)
+
+<b>Zombie Slayer Idle</b>
+ - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/zombie-slayer-idle)
+ - [Github Repository](https://github.com/AshkanKian-dev/Zombie-Slayer-Idle.git)
+
 <b>Blackened Dawn)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/blackened-dawn)
  - [Github Repository](https://github.com/VictorAA1116/BlackenedDawn.git)
-
-<b>Starlight Mercenaries</b>
- - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/starlight-mercenaries)
- - [Github Repository](https://github.com/InfiniumKnight/MajorProjectTry3.git)
 
 <h2>Skills</h2>
 

@@ -19,7 +19,7 @@
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/zombie-slayer-idle)
  - [Github Repository](https://github.com/AshkanKian-dev/Zombie-Slayer-Idle.git)
 
-<b>Blackened Dawn)</b>
+<b>Blackened Dawn</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/blackened-dawn)
  - [Github Repository](https://github.com/VictorAA1116/BlackenedDawn.git)
 

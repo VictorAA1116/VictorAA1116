@@ -7,9 +7,16 @@
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/without-regret)
  - [Github Repository](https://github.com/MaksimGareev/Without-Regret.git)
 
-<b>Untitled Minecraft Mod 1.21.6-11 (Solo Personal Project)</b>
+<b>Minecraft Mods for Java Edition 1.21.6 - 26.2 (Solo Personal Project)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/untitled-minecraft-mod)
- - [Github Repository](https://github.com/VictorAA1116/FirstMinecraftMod-1.21.6.git)
+
+ - Completed Blocksets
+   - [Modrinth Release](https://modrinth.com/mod/completed-blocksets)
+   - [CurseForge Release](https://www.curseforge.com/minecraft/mc-mods/completed-blocksets)
+   - [Github Repository](https://github.com/VictorAA1116/Completed-Blocksets)
+  
+ - Ambient Creatures
+   - [Github Repository](https://github.com/VictorAA1116/Ambient-Creatures)
 
 <b>Procedural Voxel World UE5 (Solo Personal Project)</b>
  - [Portfolio Showcase](https://victoraa1116.wixsite.com/portfolio/proceduralsurvivalue5)

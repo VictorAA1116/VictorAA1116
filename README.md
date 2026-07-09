@@ -16,6 +16,8 @@
    - [Github Repository](https://github.com/VictorAA1116/Completed-Blocksets)
   
  - Ambient Creatures
+   - [Modrinth Release](https://modrinth.com/mod/ambient-creatures)
+   - [CurseForge Release](https://www.curseforge.com/minecraft/mc-mods/ambient-creatures)
    - [Github Repository](https://github.com/VictorAA1116/Ambient-Creatures)
 
 <b>Procedural Voxel World UE5 (Solo Personal Project)</b>
